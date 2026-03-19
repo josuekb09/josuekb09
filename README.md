@@ -1,4 +1,4 @@
-# 🚀 HI I'm Josué Kabuya | Future Software Engineer & Entrepreneur
+#  HI I'm Josué Kabuya | Future Software Engineer & Entrepreneur
 
 I am a dedicated **Information Technology & Software Development student** at **IIE Rosebank College**, Cape Town. My mission is to engineer high-impact software solutions that bridge the gap between technical complexity and real-world utility.
 
@@ -9,12 +9,12 @@ I am a dedicated **Information Technology & Software Development student** at **
 
 ---
 
-###💻 Technical Stack & ExpertiseCategoryTools & TechnologiesLanguagesJava, C#, Python, C, JavaScript (ES6+)Frontend DevelopmentHTML5, CSS3, Responsive Design (Mobile First)Backend & RuntimeNode.js, Java SE, .NET (C#)Database & StorageMySQL (Learning), JSON Data ManagementVersion Control & DevOpsGit, GitHub, GitHub DesktopIDEs & ProductivityVS Code, IntelliJ IDEA, Visual Studio, NetBeansCurrently MasteringFull-Stack Integration, React (Learning), Cloud Deployment
+### Technical Stack & ExpertiseCategoryTools & TechnologiesLanguagesJava, C#, Python, C, JavaScript (ES6+)Frontend DevelopmentHTML5, CSS3, Responsive Design (Mobile First)Backend & RuntimeNode.js, Java SE, .NET (C#)Database & StorageMySQL (Learning), JSON Data ManagementVersion Control & DevOpsGit, GitHub, GitHub DesktopIDEs & ProductivityVS Code, IntelliJ IDEA, Visual Studio, NetBeansCurrently MasteringFull-Stack Integration, React (Learning), Cloud Deployment
 
-### 📂 Featured Projects
-* ♟️ **MagMon Chessboard** – A digital tribute to strategy and logic, built with HTML, CSS, and JS.
-* 🤖 **Z-AI (MagMon)** – Exploring the frontier of AI integration for real-world applications.
-* 🛒 **Kabuya Sh** – A full-stack e-commerce concept showcasing UI/UX and backend logic.
+###  Featured Projects
+*  **MagMon Chessboard** – A digital tribute to strategy and logic, built with HTML, CSS, and JS.
+*  **Z-AI (MagMon)** – Exploring the frontier of AI integration for real-world applications.
+*  **Kabuya Sh** – A full-stack e-commerce concept showcasing UI/UX and backend logic.
 * **MagMon_XPro - Game
 
 ---
