@@ -24,6 +24,10 @@ An assistive safety prototype for deaf and hard-of-hearing users, built with Rea
 
 [Source code and documentation](https://github.com/josuekb09/SafeSense)
 
+### MessageFlow
+
+A church media and communication web app I built for my church, designed to help manage and display service content.
+
 ## Skills
 
 C# · Java · JavaScript · Python · React · Node.js · Express · ASP.NET Core · PostgreSQL
