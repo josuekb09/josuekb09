@@ -1,16 +1,16 @@
 # Josue Kabuya
 
-Software development student at IIE Rosebank College in Cape Town. I build desktop and full-stack web applications with C#, JavaScript, React and Node.js.
+Software development student at IIE Rosebank College in Cape Town. I build full-stack web applications with C#, JavaScript, React and Node.js. I also volunteer with the Global Shapers Community, Cape Town Hub.
 
 I am seeking software development internships in South Africa for 2027.
 
 ## Selected work
 
-### MessageFlow Media
+### Tommy
 
-A Windows desktop application for church media projection, built with C# and WPF. Supports sermons, Bible verses and songs, with a dedicated projection output and versioned installer releases.
+A timekeeper for Toastmasters-style meetings, built as an offline-first web app. Times speakers with green, amber and red signals, records results and prepares a Timer's report. Includes agenda import from a photo.
 
-[Source code and releases](https://github.com/josuekb09/messageflow-media)
+[Source code and documentation](https://github.com/josuekb09/tommy-)
 
 ### UseAItoCite
 
